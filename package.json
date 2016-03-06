@@ -1,0 +1,22 @@
+{
+  "name": "exa2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "cluster": "^0.7.7",
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "mocha": "^2.4.5"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "install": "^0.5.4"
+  }
+}
